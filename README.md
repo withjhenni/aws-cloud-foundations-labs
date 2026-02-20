@@ -5,7 +5,7 @@ Repositório com laboratórios práticos realizados na AWS, focados em fundament
 ## Estrutura
 
 - EC2 Instance Management
-- VPC Network Foundations
+- VPC Network Foundations (Em andamento..)
 
 ## Objetivo
 

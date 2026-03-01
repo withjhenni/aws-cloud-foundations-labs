@@ -1,6 +1,6 @@
 # ☁️ AWS Cloud Foundations
 
-Este repositório reúne projetos práticos desenvolvidos na AWS com foco na aplicação de conceitos fundamentais de infraestrutura em nuvem.
+Este repositório reúne projetos práticos desenvolvidos pela Escola da Nuvem na AWS com foco na aplicação de conceitos fundamentais de infraestrutura em nuvem.
 
 O objetivo é consolidar conhecimentos técnicos por meio da criação, configuração e gerenciamento de recursos Cloud, aplicando boas práticas de segurança, monitoramento e escalabilidade.
 

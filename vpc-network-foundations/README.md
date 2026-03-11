@@ -1,13 +1,13 @@
-### Projeto: Deploy de Servidor Web em VPC personalizada
+# Projeto: Deploy de Servidor Web em VPC personalizada
 
 
-###### Objetivo
+## Objetivo
 
 Criar uma arquitetura de rede na AWS com sub-redes públicas e privadas e disponibilizar um servidor web.
 
 ---
 
-###### Serviços utilizados:
+## Serviços utilizados:
 
 * Amazon VPC
 
@@ -21,7 +21,7 @@ Criar uma arquitetura de rede na AWS com sub-redes públicas e privadas e dispon
 
 ---
 
-###### Arquitetura implementada:
+## Arquitetura implementada:
 
 * VPC (10.0.0.0/16)
 
@@ -34,4 +34,5 @@ Criar uma arquitetura de rede na AWS com sub-redes públicas e privadas e dispon
 * EC2 com Amazon Linux 2
 
 * Apache configurado via User Data
+
 

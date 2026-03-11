@@ -5,6 +5,7 @@
 
 Criar uma arquitetura de rede na AWS com sub-redes públicas e privadas e disponibilizar um servidor web.
 
+---
 
 ###### Serviços utilizados:
 
@@ -18,6 +19,7 @@ Criar uma arquitetura de rede na AWS com sub-redes públicas e privadas e dispon
 
 * Security Groups
 
+---
 
 ###### Arquitetura implementada:
 
@@ -32,3 +34,4 @@ Criar uma arquitetura de rede na AWS com sub-redes públicas e privadas e dispon
 * EC2 com Amazon Linux 2
 
 * Apache configurado via User Data
+

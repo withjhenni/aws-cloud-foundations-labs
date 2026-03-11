@@ -44,3 +44,12 @@ aws configure
 aws iam list-policies --scope Local
 
 ### Verificar versão da policy
+aws iam get-policy --policy-arn <ARN_DA_POLICY>
+
+### Baixar versão da policy em JSON
+
+aws iam get-policy-version \
+--policy-arn <ARN_DA_POLICY> \
+--version-id v1 \
+> lab_policy.json
+

@@ -1,4 +1,4 @@
-# Projeto | Gestão de Acessos com AWS IAM
+# Gestão de Acessos com AWS IAM
 
 ## Sobre o projeto
 
@@ -42,3 +42,4 @@ Simular um cenário corporativo onde diferentes usuários possuem permissões es
 - Políticas gerenciadas vs políticas inline
 - Segurança de identidade em ambiente Cloud
 - 
+

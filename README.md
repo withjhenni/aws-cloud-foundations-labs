@@ -1,4 +1,4 @@
-# ☁️ AWS Cloud Foundations
+# AWS Cloud Foundations
 
 Este repositório reúne projetos práticos desenvolvidos pela Escola da Nuvem na AWS com foco na aplicação de conceitos fundamentais de infraestrutura em nuvem.
 
@@ -6,13 +6,13 @@ O objetivo é consolidar conhecimentos técnicos por meio da criação, configur
 
 ---
 
-## 🎯 Propósito
+## Propósito
 
 Construir uma base sólida em computação em nuvem, transformando teoria em prática através de projetos técnicos progressivos.
 
 ---
 
-## 🛠️ O que você encontrará aqui
+## O que você encontrará aqui
 
 Os projetos abordam temas como:
 

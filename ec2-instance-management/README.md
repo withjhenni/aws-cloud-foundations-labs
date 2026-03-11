@@ -1,6 +1,6 @@
 # AWS EC2 – Gerenciamento e Ciclo de Vida de Instância
 
-## 📌 Visão Geral
+## Visão Geral
 
 Este laboratório demonstra, na prática, o gerenciamento completo do ciclo de vida de uma instância Amazon EC2, incluindo provisionamento, configuração de segurança, monitoramento, redimensionamento, expansão de armazenamento e encerramento controlado.
 
@@ -8,7 +8,7 @@ O objetivo foi aplicar conceitos fundamentais de computação em nuvem, como ela
 
 ---
 
-## 🛠️ Serviços Utilizados
+## Serviços Utilizados
 
 - Amazon EC2  
 - Amazon EBS  
@@ -18,7 +18,7 @@ O objetivo foi aplicar conceitos fundamentais de computação em nuvem, como ela
 
 ---
 
-## 🏗️ Arquitetura do Laboratório
+## Arquitetura do Laboratório
 
 - AMI: Amazon Linux 2023  
 - Tipo de instância inicial: `t3.micro`  
@@ -29,7 +29,7 @@ O objetivo foi aplicar conceitos fundamentais de computação em nuvem, como ela
 
 ---
 
-## 🚀 Etapas Realizadas
+## Etapas Realizadas
 
 ### 1️⃣ Provisionamento da Instância
 
@@ -66,7 +66,7 @@ O objetivo foi aplicar conceitos fundamentais de computação em nuvem, como ela
 
 ---
 
-## 💻 Script User Data Utilizado
+## Script User Data Utilizado
 
 ```bash
 #!/bin/bash

@@ -38,7 +38,6 @@ aws configure
 
 ### Criação do bucket S3
 
-```bash
 aws s3api create-bucket \
 --bucket <nome-do-bucket> \
 --region us-west-2 \
@@ -46,7 +45,6 @@ aws s3api create-bucket \
 
 ### Criação do usuário IAM
 
-```bash
 aws iam create-user --user-name awsS3user
 aws iam create-login-profile \
 --user-name awsS3userjhe \
@@ -54,7 +52,6 @@ aws iam create-login-profile \
 
 ### Listar policies
 
-```bash
 aws iam list-policies --query "Policies[?contains(PolicyName,'S3')]"
 Associar policy ao usuário
 aws iam attach-user-policy \
@@ -63,7 +60,6 @@ aws iam attach-user-policy \
 
 ### Configurar site estático
 
-```bash
 aws s3 website s3://<bucket>/ --index-document index.html
 
 ### Upload dos arquivos
@@ -76,14 +72,13 @@ s3://<bucket>/ \
 
 ### Listar arquivos no bucket
 
-```bash
 aws s3 ls s3://<bucket>
 
 ## Automação de Deploy
 
 Script criado para atualizar o site automaticamente:
 
-```bash
+
 #!/bin/bash
 aws s3 cp /home/ec2-user/sysops-activity-files/static-website/ \
 s3://<bucket>/ \
